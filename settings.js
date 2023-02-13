@@ -16,9 +16,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
-global.owner = ['94774071805'] //ur owner number
-global.ownername = "Kaveesha Sithum" //ur owner name
-global.ytname = "YT: kavee" //ur yt chanel name
+global.owner = ['94774174158'] //ur owner number
+global.ownername = "Chalana madhawa" //ur owner name
+global.ytname = "YT: Madhawa" //ur yt chanel name
 global.socialm = "Dark Nero" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
