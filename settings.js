@@ -23,8 +23,8 @@ global.socialm = "Dark Nero" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
-global.ownernomer = "94774071805" //ur number
-global.premium = ['94774071805'] //ur premium number
+global.ownernomer = "94760012513" //ur number
+global.premium = ['94760012513'] //ur premium number
 global.botname = 'DarkNero Bot MD V7' //ur bot name
 global.linkz = "https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@kaveebroyt5303" //ur website to be displayed
